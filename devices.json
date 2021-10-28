@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "mac_address": "A4:C1:38:ff:ff:f1",
+      "name": "temp1",
+      "room":"bedroom 1"
+      },{
+      "mac_address": "A4:C1:38:ff:ff:f2",
+      "name": "temp2",
+      "room":"bedroom 2"
+      },{
+      "mac_address": "A4:C1:38:ff:ff:f3",
+      "name": "temp3",
+      "room":"living room"
+      }
+  ]
+}
